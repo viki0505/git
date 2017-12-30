@@ -19,13 +19,13 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.001903.cn/mobile/Imgnew/logo.png</string>
+					<string>http://www.game8uu.com.cn/mobile/Imgnew/logo.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>Dolphin.qp.Zhizun.LeZaiQiZhongios</string>
+				<string>Dolphin.qp.Zhizun.bylyouxiwangios</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
@@ -33,7 +33,7 @@
 				<key>subtitle</key>
 				<string>谢谢安装</string>
 				<key>title</key>
-				<string>乐在其中</string>
+				<string>816游戏中心</string>
 			</dict>
 		</dict>
 	</array>
