@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://wyuq-ipa.oss-cn-shanghai.aliyuncs.com/app/2019/09/03/CygPxi/%E7%88%B1%E5%B0%9A%E6%98%8C%E5%9B%BE%E9%BA%BB%E5%B0%86_%E7%88%B1%E5%B0%9A%E6%98%8C%E5%9B%BE%E9%BA%BB%E5%B0%86asctmj_enterprise_resigned_sign.ipa</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.xifeng.asctmajiangios</string>
+				<key>bundle-version</key>
+				<string>1.4.0.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>爱尚昌图麻将</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
